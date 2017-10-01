@@ -1,0 +1,21 @@
+{
+  "name": "spsa",
+  "version": "1.0.0",
+  "description": "My first test app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "keywords": [
+    "example"
+  ],
+  "author": "Krish",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-scripts": "^1.0.14"
+  }
+}
